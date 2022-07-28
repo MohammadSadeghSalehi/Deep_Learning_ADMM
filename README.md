@@ -1,6 +1,6 @@
-#Using ADMM algorithm to train neural networks without gradient.
+# Using ADMM algorithm to train neural networks without gradient.
 
-#References
+# References
 
 [Training Neural Networks Without Gradients: A Scalable ADMM Approach](https://arxiv.org/abs/1605.02026)
 
